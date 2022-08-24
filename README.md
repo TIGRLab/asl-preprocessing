@@ -29,4 +29,3 @@
 
 ## Contact 
 Ghazaleh Ahmadzadeh 
-ghazaleh.ahmadzadeh@mail.utoronto.ca
