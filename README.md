@@ -27,7 +27,11 @@
     - QC file: `sub-CMH*/ses-01/perf/*desc-quality_control_cbf.csv`
 
 5. ### Run statsitical analysis
-    
+    - Merged the demographic data with ASL outputs
+    - Cleaned the data 
+    - Got the summary of variables including mean and standard deviation
+    - Performed independant sample t-test using ggplot among CBF of males and females across grey matter and 3 ROIs (the amygdala, hippocampus, and the anterior division of the cingulate gyrus)
+    - Performed a correlational analysis using ggplot to look for correlations between age and CBF within GM and each ROIs
 ## Contact 
 Ghazaleh Ahmadzadeh 
 - HBSc University of Toronto
