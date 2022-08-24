@@ -1,0 +1,16 @@
+RowEntities: [subject]
+ImageExtensions: ["svg"]
+
+RowDescription:
+  entities: [subject]
+  name: "${subject}"
+
+Components:
+  - entities: [subject, session]
+    name: "${subject} session:${session} perfusion"
+    column: "perfusion"
+    images:
+      - {desc: flirtbbr, suffix: asl}
+      - {desc: cbfplot, suffix: asl}
+    ratings:
+      - None
